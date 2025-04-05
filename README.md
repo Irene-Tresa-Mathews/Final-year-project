@@ -1,4 +1,5 @@
-# Final_Web-vericose
+# Final_Year_Project
+Automated Varicose Vein Detection Using Faster R-CNN
 
 # Abstract
 Varicose veins are a common vascular issue that can lead to complications if not detected early. Traditional diagnostic methods are time-intensive and require specialized skills. This project proposes an automated approach using Faster R-CNN, a deep learning model, to detect and localize varicose veins from medical images. By leveraging transfer learning and a dataset of annotated images, the model achieves high accuracy in detecting affected areas. This method offers a non-invasive, efficient diagnostic tool, enhancing early detection and improving clinical outcomes.
